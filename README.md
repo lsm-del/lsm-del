@@ -1,16 +1,16 @@
-## Hi there 👋
+## 학력
+서울시립대학교(2018.03 ~ )
 
-<!--
-**Lee-Sang-Min1998/Lee-Sang-Min1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+서울고등학교(2014.03 ~ 2017.02)
 
-Here are some ideas to get you started:
+## 수상
+하나금융 디지털 파워 온 프로젝트 2기 최우수상(2023.12)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+삼성증권 디지털/IT 학회 프로그램 우수상 (2024.06)
+
+## 경력
+신영증권 IT 고객시스템개발팀 인턴 (2024.06 ~ )
+
+Google Developer Student Club (GDSC) - Backend Team (2022.09 ~ 2023.09)
+
+
